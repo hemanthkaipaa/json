@@ -9,49 +9,49 @@
     {
       "brandID":02,
       "brandDesc":"Sony PlayStation",
-      "imageLink":'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiOofHmvb_kAhXy7HMBHdg7DCoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.co.uk%2FSony-PlayStation-500GB-Console-Black%2Fdp%2FB00BE4HOIM&psig=AOvVaw1N4jwi8YTRFad4oVmbi1zW&ust=1567972204279003',
+      "imageLink":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiOofHmvb_kAhXy7HMBHdg7DCoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.co.uk%2FSony-PlayStation-500GB-Console-Black%2Fdp%2FB00BE4HOIM&psig=AOvVaw1N4jwi8YTRFad4oVmbi1zW&ust=1567972204279003",
       
     },
     {
-      brandID:03,
-      brandDesc:'smart watch',
-      imageLink:'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjtw7GTvr_kAhWH7HMBHUxhC0YQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.walmart.com%2Fip%2FT6-Smart-Watch-Bluetooth-Wrist-Watch-with-Camera-For-Android-iPhone-Smart-Phone%2F726635910&psig=AOvVaw3CpwEc3Ci3NWlz4ujIXkZk&ust=1567972299913526',
+      "brandID":03,
+      "brandDesc":"smart watch",
+      "imageLink":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjtw7GTvr_kAhWH7HMBHUxhC0YQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.walmart.com%2Fip%2FT6-Smart-Watch-Bluetooth-Wrist-Watch-with-Camera-For-Android-iPhone-Smart-Phone%2F726635910&psig=AOvVaw3CpwEc3Ci3NWlz4ujIXkZk&ust=1567972299913526",
       
     },
      {
-      brandID:04,
-      brandDesc:'E-Bike',
-      imageLink:'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwis2ruwvr_kAhU68HMBHTh9DGwQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.autocarindia.com%2Fbike-news%2Frevolt-rv-400---5-things-to-know-413162&psig=AOvVaw2hTLOympGH8GS2BCOvZ8hF&ust=1567972355924497',
+      "brandID":04,
+      "brandDesc":'E-Bike',
+      "imageLink":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwis2ruwvr_kAhU68HMBHTh9DGwQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.autocarindia.com%2Fbike-news%2Frevolt-rv-400---5-things-to-know-413162&psig=AOvVaw2hTLOympGH8GS2BCOvZ8hF&ust=1567972355924497",
       
     },
      {
-      brandID:05,
-      brandDesc:'E-BiCycle',
-      imageLink:'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj6t9vNvr_kAhVUjOYKHcP0D-0QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.treehugger.com%2Fbikes%2Ffrance-offers-200-subsidy-electric-bike-purchases.html&psig=AOvVaw2fdnZ5nhziuc7FKQuYCUPg&ust=1567972416850805',
+      "brandID:05,
+      "brandDesc":"E-BiCycle",
+      "imageLink":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj6t9vNvr_kAhVUjOYKHcP0D-0QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.treehugger.com%2Fbikes%2Ffrance-offers-200-subsidy-electric-bike-purchases.html&psig=AOvVaw2fdnZ5nhziuc7FKQuYCUPg&ust=1567972416850805",
       
     },
      {
-      brandID:06,
-      brandDesc:'Food Coupon BBQ-NAtion',
-      imageLink:'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjL1dn8vr_kAhVC8XMBHVB4B0EQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.adrenaline.com.au%2Fmelbourne%2Fbbq-school%2Fbeer-bbq-cooking-class-hawthorn%2F&psig=AOvVaw1g-AZLDXiY_xpSwdLY-88Z&ust=1567972518079440',
+      "brandID":06,
+      "brandDesc":"Food Coupon BBQ-NAtio",
+      "imageLink":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjL1dn8vr_kAhVC8XMBHVB4B0EQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.adrenaline.com.au%2Fmelbourne%2Fbbq-school%2Fbeer-bbq-cooking-class-hawthorn%2F&psig=AOvVaw1g-AZLDXiY_xpSwdLY-88Z&ust=1567972518079440",
       
     },
      {
-      brandID:07,
-      brandDesc:'Shoes',
-      imageLink:'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiik9SXv7_kAhWo7HMBHdpyAiAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.dickssportinggoods.com%2Fp%2Fadidas-originals-mens-x-plr-shoes-17adimxplrblkwhtxlfs%2F17adimxplrblkwhtxlfs&psig=AOvVaw073T1-SsWXI7tqdQI4zpQ0&ust=1567972579825984',
+      "brandID":07,
+      "brandDesc":"Shoes",
+      "imageLink":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiik9SXv7_kAhWo7HMBHdpyAiAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.dickssportinggoods.com%2Fp%2Fadidas-originals-mens-x-plr-shoes-17adimxplrblkwhtxlfs%2F17adimxplrblkwhtxlfs&psig=AOvVaw073T1-SsWXI7tqdQI4zpQ0&ust=1567972579825984",
       
     },
      {
-      brandID:08,
-      brandDesc:'Laptop',
-      imageLink:'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjdkYCxv7_kAhXo7XMBHecdCFgQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.in%2FMicrosoft-Surface-Laptop-Intel-Core%2Fdp%2FB075S6YTRT&psig=AOvVaw2gSqM7bZDM7n62y9gGXG_9&ust=1567972629592330',
+      "brandID":08,
+      "brandDesc":"Laptop",
+      "imageLink":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjdkYCxv7_kAhXo7XMBHecdCFgQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.in%2FMicrosoft-Surface-Laptop-Intel-Core%2Fdp%2FB075S6YTRT&psig=AOvVaw2gSqM7bZDM7n62y9gGXG_9&ust=1567972629592330",
       
     },
      {
-      brandID:09,
-      brandDesc:'Thread Cycle',
-      imageLink:'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj9usjVv7_kAhWR7XMBHXmdCYoQjRx6BAgBEAQ&url=https%3A%2F%2Fyourexercisebike.com%2Fschwinn-ic3-indoor-cycling-bike%2F&psig=AOvVaw3JpnR0QaVssURiHhnQ1Ouk&ust=1567972694138082',
+      "brandID":09,
+      "brandDesc":"Thread Cycle",
+      "imageLink":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj9usjVv7_kAhWR7XMBHXmdCYoQjRx6BAgBEAQ&url=https%3A%2F%2Fyourexercisebike.com%2Fschwinn-ic3-indoor-cycling-bike%2F&psig=AOvVaw3JpnR0QaVssURiHhnQ1Ouk&ust=1567972694138082",
       
     },
   ]

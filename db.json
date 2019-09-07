@@ -8,8 +8,8 @@
     },
     {
       "brandID":02,
-      brandDesc:'Sony PlayStation',
-      imageLink:'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiOofHmvb_kAhXy7HMBHdg7DCoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.co.uk%2FSony-PlayStation-500GB-Console-Black%2Fdp%2FB00BE4HOIM&psig=AOvVaw1N4jwi8YTRFad4oVmbi1zW&ust=1567972204279003',
+      "brandDesc":"Sony PlayStation",
+      "imageLink":'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiOofHmvb_kAhXy7HMBHdg7DCoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.co.uk%2FSony-PlayStation-500GB-Console-Black%2Fdp%2FB00BE4HOIM&psig=AOvVaw1N4jwi8YTRFad4oVmbi1zW&ust=1567972204279003',
       
     },
     {

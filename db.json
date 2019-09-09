@@ -2,51 +2,99 @@
   "shoplist":[
     {
       "brandID":"01",
+      "catID":"01",
+      "calDesc":"large",
       "brandDesc":"Boat Headphones with Dolby Speaker inside with 360 Bass",
       "imageLink":"https://zdnet3.cbsistatic.com/hub/i/2019/03/16/e118b0c5-cf3c-4bdb-be71-103228677b25/966244d1205becf3dd9a1af76b8d869a/android-logo.png"
       
     },
     {
       "brandID":"02",
+      "catID":"01",
+      "calDesc":"large",
       "brandDesc":"Sony PlayStation",
       "imageLink":"https://freepiker-storage.s3.amazonaws.com/preview/preview_e362b83cb816ca0c9b228a5b5d5bea87.jpg"
       
     },
     {
       "brandID":"03",
+      "catID":"02",
+      "calDesc":"small",
       "brandDesc":"smart watch",
       "imageLink":"https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Android-10-1173653.jpg?r=1567585730451"
       
     },
      {
       "brandID":"04",
+       "catID":"02",
+      "calDesc":"small",
       "brandDesc":"E-Bike",
       "imageLink":"https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Android-10-1173653.jpg?r=1567585730451"
       
     },
      {
       "brandID":"05",
+        "catID":"02",
+      "calDesc":"small",
       "brandDesc":"E-BiCycle",
       "imageLink":"https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Android-10-1173653.jpg?r=1567585730451"
       
     },
      {
       "brandID":"06",
+        "catID":"02",
+      "calDesc":"small",
       "brandDesc":"Food Coupon BBQ-NAtion free coupon",
       "imageLink":"https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Android-10-1173653.jpg?r=1567585730451"
       
     },
      {
       "brandID":"09",
+        "catID":"01",
+      "calDesc":"large",
+      "brandDesc":"Thread Cycle",
+      "imageLink":"https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Android-10-1173653.jpg?r=1567585730451"
+      
+    },
+   {
+      "brandID":"10",
+      "catID":"02",
+      "calDesc":"small",
       "brandDesc":"Thread Cycle",
       "imageLink":"https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Android-10-1173653.jpg?r=1567585730451"
       
     },
     {
-      "brandID":"99",
+      "brandID":"11",
+      "catID":"02",
+      "calDesc":"small",
       "brandDesc":"Thread Cycle",
       "imageLink":"https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Android-10-1173653.jpg?r=1567585730451"
       
-    }
+    },
+    {
+      "brandID":"12",
+      "catID":"02",
+      "calDesc":"small",
+      "brandDesc":"Thread Cycle",
+      "imageLink":"https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Android-10-1173653.jpg?r=1567585730451"
+      
+    },
+     {
+      "brandID":"13",
+      "catID":"02",
+      "calDesc":"small",
+      "brandDesc":"Thread Cycle",
+      "imageLink":"https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Android-10-1173653.jpg?r=1567585730451"
+      
+    },
+     {
+      "brandID":"14",
+      "catID":"01",
+      "calDesc":"large",
+      "brandDesc":"Thread Cycle",
+      "imageLink":"https://cdn.images.express.co.uk/img/dynamic/59/590x/Google-Android-10-1173653.jpg?r=1567585730451"
+      
+    },
   ]
 }

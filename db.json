@@ -2,7 +2,7 @@
   "productGroup": [
     {
       "productID": "10001",
-      "productGroupDesc": "Ultimate VirtualReality Experiance",
+      "productGroupDesc": "Ultimate VR Experiance",
       "subGroupDesc": "VR for fun lovers",
       "catID": "04",
       "catDesc": "title section",
@@ -19,7 +19,7 @@
     },
     {
       "productID": "10002",
-      "productGroupDesc": "Feel the Ultimate Gaming Experiance",
+      "productGroupDesc": "Feel the Game",
       "subGroupDesc": "fun passing time & relaxation",
       "catID": "04",
       "catDesc": "title section",
@@ -36,7 +36,7 @@
     },
     {
       "productID": "10003",
-      "productGroupDesc": "Get your fitness Data along with your Assitant",
+      "productGroupDesc": "Get your fitness Data",
       "subGroupDesc": "you are a boss now",
       "catID": "04",
       "catDesc": "title section",

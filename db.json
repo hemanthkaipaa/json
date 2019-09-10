@@ -1,100 +1,172 @@
 {
-  "shoplist":[
+  "productGroup": [
     {
-      "brandID":"01",
-      "catID":"01",
-      "calDesc":"large",
-      "brandDesc":"Samsung VR Gear",
-      "imageLink":"https://www.powerplanetonline.com/cdnassets/samsung_gear_vr_sm_r322_blanco_08_ad_l.jpg"
-      
-    },
-    {
-      "brandID":"02",
-      "catID":"01",
-      "calDesc":"large",
-      "brandDesc":"Sony PlayStation",
-      "imageLink":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5850/5850905_sd.jpg;maxHeight=640;maxWidth=550"
-      
-    },
-    {
-      "brandID":"03",
-      "catID":"02",
-      "calDesc":"small",
-      "brandDesc":"smart watch",
-      "imageLink":"https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/283647-L-LO.jpg"
-      
-    },
-     {
-      "brandID":"04",
-       "catID":"02",
-      "calDesc":"small",
-      "brandDesc":"Amazon Eco-Dot",
-      "imageLink":"https://images-eu.ssl-images-amazon.com/images/I/41hX%2B2Es%2BvL._SY300_QL70_.jpg"
-      
-    },
-     {
-      "brandID":"05",
-        "catID":"02",
-      "calDesc":"small",
-      "brandDesc":"E-BiCycle",
-      "imageLink":"https://images-na.ssl-images-amazon.com/images/I/51xB33cmXEL._SY355_.jpg"
-      
-    },
-     {
-      "brandID":"06",
-        "catID":"02",
-      "calDesc":"small",
-      "brandDesc":"BBQ-NAtion 5 free coupons",
-      "imageLink":"https://img3.nbstatic.in/la-l/5804a576d60180000dec1906.jpg"
-      
-    },
-     {
-      "brandID":"09",
-        "catID":"01",
-      "calDesc":"large",
-      "brandDesc":"Thread Cycle",
-      "imageLink":"https://images-na.ssl-images-amazon.com/images/I/71lbLGE7ufL._SX425_.jpg"
-      
-    },
-   {
-      "brandID":"10",
-      "catID":"02",
-      "calDesc":"small",
-      "brandDesc":"Sports Kit",
-      "imageLink":"https://5.imimg.com/data5/OW/BK/MY-24100650/kashmiri-cricket-kit-500x500.jpg"
-      
+      "productID": "10001",
+      "productGroupDesc": "Ultimate VirtualReality Experiance",
+      "subGroupDesc": "VR for fun lovers",
+      "catID": "04",
+      "catDesc": "title section",
+      "shoplist": [
+        {
+          "brandID": "01",
+          "catID": "01",
+          "productID": "10001",
+          "catDesc": "large",
+          "brandDesc": "Samsung VR Gear",
+          "imageLink": "https://www.powerplanetonline.com/cdnassets/samsung_gear_vr_sm_r322_blanco_08_ad_l.jpg"
+        }
+      ]
     },
     {
-      "brandID":"11",
-      "catID":"02",
-      "calDesc":"small",
-      "brandDesc":"Running Shoes",
-      "imageLink":"https://images.ctfassets.net/od02wyo8cgm5/79W1zCTwJzdJuAQTTrPGLi/742b8cfdf6e6e82d42e692c87ea90a6b/cloudace-fw19-ruby_lava-w-g4.png"
-      
+      "productID": "10002",
+      "productGroupDesc": "Feel the Ultimate Gaming Experiance",
+      "subGroupDesc": "fun passing time & relaxation",
+      "catID": "04",
+      "catDesc": "title section",
+      "shoplist": [
+        {
+          "brandID": "02",
+          "catID": "01",
+          "productID": "10002",
+          "catDesc": "large",
+          "brandDesc": "Sony PlayStation",
+          "imageLink": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5850/5850905_sd.jpg;maxHeight=640;maxWidth=550"
+        }
+      ]
     },
     {
-      "brandID":"12",
-      "catID":"02",
-      "calDesc":"small",
-      "brandDesc":"Beats Headphones",
-      "imageLink":"https://smhttp-ssl-78866-prod.nexcesscdn.net/media/catalog/product/cache/image/700x700/446d7fd256e5d13495f759789e757016/1/b/1beats9.jpg"
-      
+      "productID": "10003",
+      "productGroupDesc": "Get your fitness Data along with your Assitant",
+      "subGroupDesc": "you are a boss now",
+      "catID": "04",
+      "catDesc": "title section",
+      "shoplist": [
+        {
+          "brandID": "03",
+          "catID": "02",
+          "productID": "10003",
+          "catDesc": "small",
+          "brandDesc": "smart watch",
+          "imageLink": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/283647-L-LO.jpg"
+        },
+        {
+          "brandID": "04",
+          "catID": "02",
+          "productID": "10003",
+          "catDesc": "small",
+          "brandDesc": "Amazon Eco-Dot",
+          "imageLink": "https://images-eu.ssl-images-amazon.com/images/I/41hX%2B2Es%2BvL._SY300_QL70_.jpg"
+        }
+      ]
     },
-     {
-      "brandID":"13",
-      "catID":"02",
-      "calDesc":"small",
-      "brandDesc":"Lenovo Gaming PC",
-      "imageLink":"https://www.lenovo.com/medias/lenovo-laptop-ideapad-330-400x300.png?context=bWFzdGVyfC9FTUVBL2ltYWdlc3w3MTQwOHxpbWFnZS9wbmd8aDRkL2gzZC8xMDUyNjcwNDg5Mzk4Mi5wbmd8Mjk3ZWMwMmY4ZmYyNDNkODE5MmNlMjE2MzFlM2E3NTk5OTE5NjAyMTA3ODA5YzVhZGU5NjQ3ZTI1YWY3ZDUzMA"
-      
+    {
+      "productID": "10004",
+      "productGroupDesc": "A fitness run with Meal",
+      "subGroupDesc": "enjoy your ride",
+      "catID": "04",
+      "catDesc": "title section",
+      "shoplist": [
+        {
+          "brandID": "05",
+          "catID": "02",
+          "productID": "10004",
+          "catDesc": "small",
+          "brandDesc": "E-BiCycle",
+          "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51xB33cmXEL._SY355_.jpg"
+        },
+        {
+          "brandID": "06",
+          "catID": "02",
+          "productID": "10004",
+          "catDesc": "small",
+          "brandDesc": "BBQ-NAtion 5 free coupons",
+          "imageLink": "https://img3.nbstatic.in/la-l/5804a576d60180000dec1906.jpg"
+        }
+      ]
     },
-     {
-      "brandID":"14",
-      "catID":"01",
-      "calDesc":"large",
-      "brandDesc":"Revolt E-bike",
-      "imageLink":"https://bd.gaadicdn.com/processedimages/revolt-motors/rv300/source/v_rv300-std1566988771.jpg"
-      
+    {
+      "productID": "10005",
+      "productGroupDesc": "Fitness is your priority",
+      "subGroupDesc": "",
+      "catID": "04",
+      "catDesc": "title section",
+      "shoplist": [
+        {
+          "brandID": "09",
+          "catID": "01",
+          "productID": "10005",
+          "catDesc": "large",
+          "brandDesc": "Thread Cycle",
+          "imageLink": "https://images-na.ssl-images-amazon.com/images/I/71lbLGE7ufL._SX425_.jpg"
+        }
+      ]
+    },
+    {
+      "productID": "10006",
+      "productGroupDesc": "Think about Playing a sport",
+      "subGroupDesc": "customized shoes",
+      "catID": "04",
+      "catDesc": "title section",
+      "shoplist": [
+        {
+          "brandID": "10",
+          "catID": "02",
+          "productID": "10006",
+          "catDesc": "small",
+          "brandDesc": "Sports Kit",
+          "imageLink": "https://5.imimg.com/data5/OW/BK/MY-24100650/kashmiri-cricket-kit-500x500.jpg"
+        },
+        {
+          "brandID": "11",
+          "catID": "02",
+          "productID": "10006",
+          "catDesc": "small",
+          "brandDesc": "Running Shoes",
+          "imageLink": "https://images.ctfassets.net/od02wyo8cgm5/79W1zCTwJzdJuAQTTrPGLi/742b8cfdf6e6e82d42e692c87ea90a6b/cloudace-fw19-ruby_lava-w-g4.png"
+        }
+      ]
+    },
+    {
+      "productID": "10007",
+      "productGroupDesc": "Listen your favorites on work",
+      "subGroupDesc": "",
+      "catID": "04",
+      "catDesc": "title section",
+      "shoplist": [
+        {
+          "brandID": "12",
+          "catID": "02",
+          "productID": "10007",
+          "catDesc": "small",
+          "brandDesc": "Beats Headphones",
+          "imageLink": "https://smhttp-ssl-78866-prod.nexcesscdn.net/media/catalog/product/cache/image/700x700/446d7fd256e5d13495f759789e757016/1/b/1beats9.jpg"
+        },
+        {
+          "brandID": "13",
+          "catID": "02",
+          "productID": "10007",
+          "catDesc": "small",
+          "brandDesc": "Lenovo Gaming PC",
+          "imageLink": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-330-400x300.png?context=bWFzdGVyfC9FTUVBL2ltYWdlc3w3MTQwOHxpbWFnZS9wbmd8aDRkL2gzZC8xMDUyNjcwNDg5Mzk4Mi5wbmd8Mjk3ZWMwMmY4ZmYyNDNkODE5MmNlMjE2MzFlM2E3NTk5OTE5NjAyMTA3ODA5YzVhZGU5NjQ3ZTI1YWY3ZDUzMA"
+        }
+      ]
+    },
+    {
+      "productID": "10008",
+      "productGroupDesc": "Environmental Friendly",
+      "subGroupDesc": "",
+      "catID": "04",
+      "catDesc": "title section",
+      "shoplist": [
+        {
+          "brandID": "14",
+          "catID": "01",
+          "productID": "10008",
+          "catDesc": "large",
+          "brandDesc": "Revolt E-bike",
+          "imageLink": "https://bd.gaadicdn.com/processedimages/revolt-motors/rv300/source/v_rv300-std1566988771.jpg"
+        }
+      ]
     }
   ]
 }
